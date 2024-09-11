@@ -21,21 +21,20 @@ URLS = [URL_g1, URL_l4, URL_l3, URL_l6, URL_l8, URL_l9]
 
 # Fill in this dictionary with your personal details!
 JOB_APP = {
-    "first_name": "Foo",
-    "last_name": "Bar",
-    "email": "test@test.com",
-    "phone": "123-456-7890",
-    "org": "Self-Employed",
-    "resume": "resume.pdf",
-    "resume_textfile": "resume_short.txt",
-    "linkedin": "https://www.linkedin.com/",
-    "website": "www.youtube.com",
-    "github": "https://github.com",
-    "twitter": "www.twitter.com",
-    "location": "San Francisco, California, United States",
-    "grad_month": '06',
-    "grad_year": '2021',
-    "university": "MIT" # if only o.O
+    "first_name": "Krysta",
+    "last_name": "Parker",
+    "email": "krysta.parker757@gmail.com",
+    "phone": "757-774-5108",
+    "org": "Student",
+    "resume": "Sept2024_Resume.pdf",
+    "resume_textfile": "Sept2024_Resume.txt",
+    "linkedin": "https://www.linkedin.com/in/krystaparker/",
+    "website": "www.krystaparker.space",
+    "github": "https://github.com/MyNerdChild",
+    "location": "Suffolk, Virginia, United States",
+    "grad_month": '12',
+    "grad_year": '2025',
+    "university": "Old Dominion University" # if only o.O
 }
 
 # Greenhouse has a different application form structure than Lever, and thus must be parsed differently
